@@ -12,4 +12,5 @@
 
 ***
 
+* [Python tips](python-tips.md)
 * [Links](links.md)
