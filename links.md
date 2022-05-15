@@ -1,5 +1,9 @@
 # Links
 
+Install Processing
+
+* [https://processing.org/download](https://processing.org/download)
+
 About Math Adventures with Python
 
 * [https://github.com/hackingmath/Math-Adventures](https://github.com/hackingmath/Math-Adventures)
