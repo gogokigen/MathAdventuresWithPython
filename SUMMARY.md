@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [about Python ..](about-python-...md)
+* [Install Processing](install-processing.md)
 
 ## Contents
 

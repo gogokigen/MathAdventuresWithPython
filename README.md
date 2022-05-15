@@ -4,7 +4,7 @@ description: This is a reading notes for learning Math with Python.
 
 # Welcome!
 
-## ![](.gitbook/assets/圖片.png)
+## ![](<.gitbook/assets/圖片 (3).png>)
 
 #### Introduction
 
