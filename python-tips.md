@@ -1,3 +1,0 @@
-# Python tips
-
-jupyter notebook
