@@ -12,7 +12,7 @@ description: 學習指南與目標
 
 | 章節                                                                                 | 對應數學概念                                 | 程式學習目標                                                      |
 | ---------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------- |
-| [1.](contents/drawing-polygons-with-turtles.md)                                    | 四則運算、外角內角                              | <p>Turtle module的應用、<br>變數的寫法、函數的寫法</p>                     |
+| [1.](contents/drawing-polygons-with-turtles.md)                                    | 四則運算、外角內角                              | <p>Turtle module的應用、<br>變數、迴圈、函數的寫法</p>                     |
 | [2.](contents/2.-making-tedious-arithmetic-fun-with-lists-and-loops.md)            | 四則運算、級數的表達                             | list、變數的型態                                                  |
 | [3.](contents/3.-guessing-and-checking-with-conditionals.md)                       | 餘數、因數、平均、開根號                           | <p>條件式的寫法、隨機數的生成、<br>I/O的使用</p>                             |
 | [4.](contents/4.-transforming-and-storing-numbers-with-algebra.md)                 | <p>一元一次方程式、<br>一元二次次方程式解與作圖</p>        | <p>math module的應用、</p><p>用程式表達暴力解和公式解、<br>Processing 畫圖</p> |
