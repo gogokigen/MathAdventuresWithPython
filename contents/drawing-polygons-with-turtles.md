@@ -63,9 +63,9 @@ triangle()
 
 **輸出結果**
 
-![](<../.gitbook/assets/圖片 (7).png>)
+![](<../.gitbook/assets/圖片 (7) (1).png>)
 
-#### Homework:
+#### Homework
 
 * 把 Example 2 的 120 改成 60，圖會是怎樣呢？
 * 上面兩個例子中，哪個是函數？
