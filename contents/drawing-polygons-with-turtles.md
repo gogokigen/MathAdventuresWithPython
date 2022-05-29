@@ -44,7 +44,7 @@ shape('turtle')
 
 **輸出結果**
 
-![](<../.gitbook/assets/圖片 (4).png>)
+![](<../.gitbook/assets/圖片 (4) (1).png>)
 
 #### Example 2
 
@@ -117,7 +117,7 @@ radius == 20
 
 ### 外角
 
-![](<../.gitbook/assets/圖片 (5).png>)
+![](<../.gitbook/assets/圖片 (5) (1).png>)
 
 ### 內角？
 

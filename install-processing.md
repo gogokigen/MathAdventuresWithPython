@@ -2,10 +2,10 @@
 
 下載壓縮檔後
 
-1. 點擊 icon ![](<.gitbook/assets/圖片 (4) (1).png>)\
+1. 點擊 icon ![](<.gitbook/assets/圖片 (4) (1) (1).png>)\
 
 2. 找到右上方的 Java字樣\
-   ![](<.gitbook/assets/圖片 (5) (1).png>)
+   ![](<.gitbook/assets/圖片 (5) (1) (1).png>)
 3. 選 Manage Mode ..\
    ![](<.gitbook/assets/圖片 (1).png>)
 4. 安裝 Python Mode\
