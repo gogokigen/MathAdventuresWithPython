@@ -23,7 +23,7 @@ for i in range(2):
 
 #### 輸出結果
 
-![](../.gitbook/assets/圖片.png)
+![](<../.gitbook/assets/圖片 (1).png>)
 
 ### Turtle module的應用
 
@@ -117,7 +117,7 @@ radius == 20
 
 ### 外角
 
-![](<../.gitbook/assets/圖片 (5) (1).png>)
+![](<../.gitbook/assets/圖片 (5) (1) (1).png>)
 
 ### 內角？
 
