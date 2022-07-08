@@ -44,7 +44,7 @@ shape('turtle')
 
 **輸出結果**
 
-![](<../.gitbook/assets/圖片 (4) (1).png>)
+![](<../.gitbook/assets/圖片 (4) (1) (1).png>)
 
 #### Example 2
 
@@ -63,7 +63,7 @@ triangle()
 
 **輸出結果**
 
-![](<../.gitbook/assets/圖片 (7) (1).png>)
+![](<../.gitbook/assets/圖片 (7) (1) (1).png>)
 
 #### Homework
 

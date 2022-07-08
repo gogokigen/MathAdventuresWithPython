@@ -2,7 +2,7 @@
 
 下載壓縮檔後
 
-1. 點擊 icon ![](<.gitbook/assets/圖片 (4) (1) (1).png>)\
+1. 點擊 icon ![](<.gitbook/assets/圖片 (4) (1) (1) (1).png>)\
 
 2. 找到右上方的 Java字樣\
    ![](<.gitbook/assets/圖片 (5) (1) (1) (1).png>)

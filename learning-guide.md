@@ -15,7 +15,7 @@ description: 學習指南與目標
 | [1.](contents/drawing-polygons-with-turtles.md)                                    | 四則運算、外角內角                              | <p>Turtle module的應用、<br>變數、迴圈、函數的寫法</p>                     |
 | [2.](contents/2.-making-tedious-arithmetic-fun-with-lists-and-loops.md)            | 平均數、級數                                 | 基本運算、list、變數的型態                                             |
 | [3.](contents/3.-guessing-and-checking-with-conditionals.md)                       | 餘數、因數、平均、開根號                           | <p>條件式的寫法、隨機數的生成、<br>I/O的使用</p>                             |
-| [4.](contents/4.-transforming-and-storing-numbers-with-algebra.md)                 | <p>一元一次方程式、<br>一元二次次方程式解與作圖</p>        | <p>math module的應用、</p><p>用程式表達暴力解和公式解、<br>Processing 畫圖</p> |
+| [4.](contents/4.-transforming-and-storing-numbers-with-algebra.md)                 | <p>一元一次方程式、<br>一元二次方程式解與作圖</p>         | <p>math module的應用、</p><p>用程式表達暴力解和公式解、<br>Processing 畫圖</p> |
 | [5.](contents/5.-transforming-shapes-with-geometry.md)                             | <p>基本幾何的定義、<br>距離、了解弳度量</p>            | <p>畫出基本幾何圖形、<br>做出動畫、上色</p>                                 |
 | [6.](contents/6.-creating-oscillations-with-trigonometry.md)                       | 三角幾何、狹義三角函數                            | 畫出三角函數圖形                                                    |
 | [7.](contents/7.-complex-numbers.md)                                               | <p>複數與其運算、極座標、<br>生成碎形</p>             | 極座標作圖、一些碎形作圖                                                |
