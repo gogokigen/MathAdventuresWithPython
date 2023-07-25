@@ -4,13 +4,13 @@ description: This is a reading notes for learning Math with Python.
 
 # Welcome!
 
-## ![](<.gitbook/assets/圖片 (3) (1).png>)
+## ![](<.gitbook/assets/圖片 (5).png>)
 
 #### Introduction
 
 #### Part 1: Hitchin' Up Your Python Wagon
 
-[Chapter 1: Drawing Polygons with Turtles](contents/drawing-polygons-with-turtles.md)\
+[Chapter 1: Drawing Polygons with Turtles](contents/1.-drawing-polygons-with-turtles.md)\
 [Chapter 2: Making Tedious Arithmetic Fun with Lists and Loops](contents/2.-making-tedious-arithmetic-fun-with-lists-and-loops.md)\
 [Chapter 3: Guessing and Checking with Conditionals](contents/3.-guessing-and-checking-with-conditionals.md)
 

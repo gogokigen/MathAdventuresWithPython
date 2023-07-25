@@ -7,7 +7,7 @@
 
 ## Contents
 
-* [1. Drawing Polygons with Turtles](contents/drawing-polygons-with-turtles.md)
+* [1. Drawing Polygons with Turtles](contents/1.-drawing-polygons-with-turtles.md)
 * [2. Making Tedious Arithmetic Fun with Lists and Loops](contents/2.-making-tedious-arithmetic-fun-with-lists-and-loops.md)
 * [3. Guessing and Checking with Conditionals](contents/3.-guessing-and-checking-with-conditionals.md)
 * [4. Transforming and Storing Numbers with Algebra](contents/4.-transforming-and-storing-numbers-with-algebra.md)
